@@ -1,5 +1,9 @@
-# import fizz_buzz
+
+import t001_hello 
+
+import t002_fizz_buzz
 
 # import demo1
 
-import /educative/elif.py
+# import 04_elif
+
